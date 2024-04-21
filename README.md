@@ -12,7 +12,8 @@ Project 1:
 * Developed a Time Series forecasting model for oil price prediction as a Proof of Concept (POC) during an Internship.
 * Integrated advanced machine learning techniques and deployed the model using Streamlit framework, offering a professional and visually appealing interface.
 * Achieved accurate predictions, providing valuable insights for decision-makers in the oil industry.
-Project 2: (Bank Loan Analysis)[https://github.com/BagalPrashant/Bank-Loan-Report]
+  
+Project 2: (Bank Loan Analysis) [https://github.com/BagalPrashant/Bank-Loan-Report]
 * Conducted thorough financial bank loan applicant data analysis, enhancing decision-making processes.
 * Collaborated on strategic recovery solutions, contributing to increased loan recovery rates.
 * Created impactful visualizations and supported senior analysts in data-related tasks, receiving commendation for attention to detail and analytical skills. 
