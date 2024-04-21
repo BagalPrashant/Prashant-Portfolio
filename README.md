@@ -1,12 +1,12 @@
 
-## Data Analyst
-# Technical Skills:
+# Data Analyst
+## Technical Skills:
 Python, SQL, Power BI, Tableau, Machine learning
 
-# Education
+## Education
 * Bachelor of Engineering
 
-# Work Experience
+## Internship projects:
 
 Data Scientist Intern at Ai Variant (Nov 2023 - Apr 2024)
 
@@ -20,7 +20,7 @@ Data Scientist Intern at Ai Variant (Nov 2023 - Apr 2024)
 * Collaborated on strategic recovery solutions, contributing to increased loan recovery rates.
 * Created impactful visualizations and supported senior analysts in data-related tasks, receiving commendation for attention to detail and analytical skills. 
 
-# Volunteer work:
+## Volunteer work:
 
 Omdena- Mental Health LLM Project
 
@@ -29,7 +29,7 @@ Omdena- Mental Health LLM Project
 * Developed a chatbot, facilitating user engagement and support.
 * Collaborated with team members to implement innovative solutions and achieve project objectives.
   
-# Projects :  
+## Projects :  
 [Car Price Prediction](https://github.com/BagalPrashant/Car-Price-Predication)
 * [Streamlit Deployment link](https://car-price-predication-8wtyjqpsayee9qrhjcln9f.streamlit.app/)
 * Led the development of a cutting-edge car price prediction model, employing meticulous Exploratory Data Analysis (EDA) techniques to ensure robustness.
