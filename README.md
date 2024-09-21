@@ -10,7 +10,7 @@ Python, SQL, Power BI, Tableau, Machine learning, MongoDB
 ## Experience:
 
 Power BI Expert
-Business Promoted
+Business Promoted (Apr 2024 - Present)
 * Created a data-driven solution that helped streamline management operations, resulting in a 30% increase in overall efficiency. Utilized Power BI to develop interactive dashboards, providing real-time insights for decision-making.
 * Analyzed large datasets within the pharmaceutical domain to identify operational bottlenecks and provided actionable insights that improved production timelines and quality control.
 * Used Python to clean and manipulate data from various sources, and integrated APIs to extract data efficiently for further analysis.
