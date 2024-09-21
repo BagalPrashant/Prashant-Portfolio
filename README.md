@@ -1,12 +1,19 @@
 
 # Data Analyst
 ## Technical Skills:
-Python, SQL, Power BI, Tableau, Machine learning
+Python, SQL, Power BI, Tableau, Machine learning, MongoDB
 
-## Education
+## Education & Cerfication
+* Data Analyst Certification / Data Science Certification
 * Bachelor of Engineering
 
-## Internship projects:
+## Experience:
+
+Power BI Expert
+Business Promoted
+* Created a data-driven solution that helped streamline management operations, resulting in a 30% increase in overall efficiency. Utilized Power BI to develop interactive dashboards, providing real-time insights for decision-making.
+* Analyzed large datasets within the pharmaceutical domain to identify operational bottlenecks and provided actionable insights that improved production timelines and quality control.
+* Used Python to clean and manipulate data from various sources, and integrated APIs to extract data efficiently for further analysis.
 
 Data Scientist Intern at Ai Variant (Nov 2023 - Apr 2024)
 
