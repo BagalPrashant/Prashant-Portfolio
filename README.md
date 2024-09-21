@@ -15,11 +15,11 @@ Business Promoted (Apr 2024 - Present)
 * Analyzed large datasets within the pharmaceutical domain to identify operational bottlenecks and provided actionable insights that improved production timelines and quality control.
 * Used Python to clean and manipulate data from various sources, and integrated APIs to extract data efficiently for further analysis.
 
-Data Scientist Intern at Ai Variant (Nov 2023 - Apr 2024)
+Data Scientist Intern at Ai Variant (Nov 2023 - Mar 2024)
 
  1: [Oil Price Forecasting](https://github.com/BagalPrashant/Oil-Price-Forecasting)
 * Developed a Time Series forecasting model for oil price prediction as a Proof of Concept (POC) during an Internship.
-* Integrated advanced machine learning techniques and deployed the model using Streamlit framework, offering a professional and visually appealing interface.
+* Integrated advanced machine learning techniques and deployed the model using the Streamlit framework, offering a professional and visually appealing interface.
 * Achieved accurate predictions, providing valuable insights for decision-makers in the oil industry.
   
  2: [Bank Loan Analysis](https://github.com/BagalPrashant/Bank-Loan-Report)
@@ -40,7 +40,7 @@ Omdena- Mental Health LLM Project
 [Car Price Prediction](https://github.com/BagalPrashant/Car-Price-Predication)
 * [Streamlit Deployment link](https://car-price-predication-8wtyjqpsayee9qrhjcln9f.streamlit.app/)
 * Led the development of a cutting-edge car price prediction model, employing meticulous Exploratory Data Analysis (EDA) techniques to ensure robustness.
-* Implemented regression models and conducted rigorous evaluation and validation, fine-tuning techniques for optimal
+* Implemented regression models and conducted rigorous evaluation and validation, as well as fine-tuning techniques for optimal
 performance and accurate price predictions. Deploy the model using Streamlit.
 
 [Road Accident Dashboard](https://github.com/BagalPrashant/Road-Accident-Analysis-PowerBI)
