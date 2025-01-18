@@ -15,7 +15,7 @@ Business Promoted (Apr 2024 - Oct 2024)
 * Analyzed large datasets within the pharmaceutical domain to identify operational bottlenecks and provided actionable insights that improved production timelines and quality control.
 * Used Python to clean and manipulate data from various sources, and integrated APIs to extract data efficiently for further analysis.
 
-Data Scientist Intern at Ai Variant (Nov 2023 - Mar 2024)
+Data Scientist Intern at Ai Variant (Oct 2023 - Apr 2024)
 
  1: [Oil Price Forecasting](https://github.com/BagalPrashant/Oil-Price-Forecasting)
 * Developed a Time Series forecasting model for oil price prediction as a Proof of Concept (POC) during an Internship.
@@ -23,9 +23,15 @@ Data Scientist Intern at Ai Variant (Nov 2023 - Mar 2024)
 * Achieved accurate predictions, providing valuable insights for decision-makers in the oil industry.
   
  2: [Bank Loan Analysis](https://github.com/BagalPrashant/Bank-Loan-Report)
-* Conducted thorough financial bank loan applicant data analysis, enhancing decision-making processes.
-* Collaborated on strategic recovery solutions, contributing to increased loan recovery rates.
-* Created impactful visualizations and supported senior analysts in data-related tasks, receiving commendation for attention to detail and analytical skills. 
+* Conducted comprehensive bank loan applicant data analysis, improving decision-making processes by creating a dashboard.
+* Collaborated on strategic recovery solutions, resulting in a 10% increase in loan recovery rates.
+* Created impactful visualizations and supported senior analysts in data-related tasks, receiving commendation for attention to detail and analytical skills.
+
+3: [Wholesaler Distributor Sales Analysis]: 
+* Performed detailed sales analysis for a wholesaler distributor, identifying key trends and patterns to optimize sales and distribution strategies.
+* Delivered actionable insights that improved distribution efficiency and product quality by 10%, contributing to enhanced operational performance.
+
+  
 
 ## Volunteer work:
 
