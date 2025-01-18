@@ -40,6 +40,11 @@ Omdena- Mental Health LLM Project (Feb 2024 - Mar 2024)
 * Contributed to data scraping, preprocessing, and model-building phases, enhancing project efficiency.
 * Developed a chatbot, facilitating user engagement and support.
 * Collaborated with team members to implement innovative solutions and achieve project objectives.
+
+## Quality Engineer at Ganesh Engineer (Apr 2022 - Jun 2023)
+
+* Programmed and calibrated Coordinate Measuring Machines (CMM) and various gauges to improve accuracy and consistency in product quality measurements
+* Developed and implemented a data-driven Quality Management System (QMS), ensuring consistent documentation and monitoring of process standards.
   
 ## Projects :  
 [Car Price Prediction](https://github.com/BagalPrashant/Car-Price-Predication)
