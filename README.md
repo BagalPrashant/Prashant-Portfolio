@@ -9,7 +9,7 @@ Python, SQL, Power BI, Tableau, Machine learning, Azure, Pyspark, Streamlit
 
 ## Experience:
 
-Power BI Expert
+Power BI Expert at 
 Business Promoted (Apr 2024 - Oct 2024)
 * Created a data-driven solution that helped streamline management operations, resulting in a 30% increase in overall efficiency. Utilized Power BI to develop interactive dashboards, providing real-time insights for decision-making.
 * Analyzed large datasets within the pharmaceutical domain to identify operational bottlenecks and provided actionable insights that improved production timelines and quality control.
