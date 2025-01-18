@@ -35,9 +35,8 @@ Data Scientist Intern at Ai Variant (Oct 2023 - Apr 2024)
 
 ## Volunteer work:
 
-Omdena- Mental Health LLM Project
+Omdena- Mental Health LLM Project (Feb 2024 - Mar 2024)
 
-02/2024 - 03/2024
 * Contributed to data scraping, preprocessing, and model-building phases, enhancing project efficiency.
 * Developed a chatbot, facilitating user engagement and support.
 * Collaborated with team members to implement innovative solutions and achieve project objectives.
