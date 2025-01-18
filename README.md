@@ -27,7 +27,7 @@ Data Scientist Intern at Ai Variant (Oct 2023 - Apr 2024)
 * Collaborated on strategic recovery solutions, resulting in a 10% increase in loan recovery rates.
 * Created impactful visualizations and supported senior analysts in data-related tasks, receiving commendation for attention to detail and analytical skills.
 
-3: [Wholesaler Distributor Sales Analysis]: 
+3: [Wholesaler Distributor Sales Analysis](https://github.com/) 
 * Performed detailed sales analysis for a wholesaler distributor, identifying key trends and patterns to optimize sales and distribution strategies.
 * Delivered actionable insights that improved distribution efficiency and product quality by 10%, contributing to enhanced operational performance.
 
